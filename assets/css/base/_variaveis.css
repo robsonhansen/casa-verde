@@ -1,19 +1,20 @@
 :root {
-    --amarelo: #ffcb47;
+    --amarelo: #FFCB47;
     --amarelo-transparente: #FFCB473D;
-    --branco: #FFFFFF;
+    --branco:  #FFFFFF;
     --cinza: #909090;
     --preto: #202020;
     --preto-transparente: #0000000F;
 
     --familia-corpo: 'Montserrat', sans-serif;
-    --famialia-titulo-destaque: 'Elsie Swash Caps', serif;
+    --familia-titulo-destaque: 'Elsie Swash Caps', serif;
 
     --peso-titulo-destaque: 900;
     --peso-botao: 700;
+    --peso-destaque: 700;
 
     --tamanho-corpo: 1rem;
     --tamanho-titulo: 1.375rem;
     --tamanho-titulo-destaque: 2rem;
-
+    --tamanho-destaque: 1.375rem;
 }
